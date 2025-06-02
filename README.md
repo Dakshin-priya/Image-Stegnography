@@ -36,18 +36,12 @@ This project implements basic Image Steganography with two main options: **Encod
    ```bash
    cd Image-Stegnography
    ```
-
-3. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the application:
+3. Run the application:
 
    ```bash
    python main.py
    ```
-5. Use the UI to encode or decode images with hidden data
+4. Use the UI to encode or decode images with hidden data
 
 ---
 
