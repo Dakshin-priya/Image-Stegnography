@@ -82,7 +82,6 @@ def uploadimage():
             secret.save("hidden.png")
             messagebox.showinfo("steganography","image saved successfully")
 
-
         
         global filename
         # to select image
