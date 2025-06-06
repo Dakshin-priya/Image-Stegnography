@@ -241,5 +241,4 @@ decode=Button(window,text="Decode",bg="gray",fg="black",padx=10,pady=10,font=("t
               activebackground="black",activeforeground="gray",command=decodeimg)
 decode.place(x=635,y=300)
 
-
 window.mainloop()
