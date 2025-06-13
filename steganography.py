@@ -45,7 +45,6 @@ def center(win):
     win.geometry('{}x{}+{}+{}'.format(width, height, x, y))
     win.deiconify()
 
-
 center(window)
  
 def uploadimage():
