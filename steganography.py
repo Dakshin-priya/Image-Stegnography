@@ -28,7 +28,6 @@ label1.place(x=510, y=100)
 h=Label(window,text="Steganography",font=("times",28,"bold"))
 h.place(x=570,y=110)
 
-
 def center(win):
     """
     centers a tkinter window
