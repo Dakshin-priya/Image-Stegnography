@@ -49,7 +49,6 @@ def center(win):
 
 center(window)
  
-
 def uploadimage():
     # to minimize window
     window.iconify()
